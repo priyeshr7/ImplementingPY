@@ -9,6 +9,10 @@
    - pylint
    - black
    - flake8
+-> Testing 
+   - unittest 
+   - pytest
+   - tox   
 -> exploring libraries > heapq, collections, bisect, and itertools 
 -> Explore Python Internals
     - Memory management > gc in cPython

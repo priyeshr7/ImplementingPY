@@ -2,7 +2,7 @@
  A journey of learning python through implementing it. Here I will try to learn by solving problems and by making some python projects .
 
 
-## Project will contain 
+# Project Journey 
 - Make some small project 
 - Make project in OOPs
 - Code Linting
